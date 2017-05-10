@@ -11,3 +11,4 @@
     </ul>
 </main>
 <?php include 'view/footer.php'; ?>
+<style> <?php include 'main.css'; ?> </style>
